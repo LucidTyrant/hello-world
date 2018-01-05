@@ -1,4 +1,3 @@
-# hello-world
-Just another repository
+# Testing Branch
 
-No real content to add here, just learning how the site works.
+Seeing how the basics of the program works.
